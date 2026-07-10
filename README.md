@@ -1,36 +1,74 @@
 # 🧬 DNA Sequence Analyzer
 
-## Overview
-
-This project is a Python-based DNA Sequence Analyzer developed as part of my Computational Biology learning journey.
-
-It validates DNA sequences, calculates nucleotide composition, computes GC content, and generates the reverse complement.
-
-## Features
-
-- ✅ DNA sequence validation
-- ✅ Sequence length calculation
-- ✅ Nucleotide counting (A, T, G, C)
-- ✅ GC Content calculation
-- ✅ Reverse Complement generation
-
-## Technologies Used
-
-- Python
-
-## Biological Concepts
-
-- DNA nucleotide composition
-- GC Content
-- Reverse Complement
-
-## Future Improvements
-
-- RNA Transcription
-- FASTA file support
-- Protein Translation
-- Sequence statistics
+A Python-based DNA Sequence Analyzer developed as part of my Computational Biology learning journey. This project applies fundamental Python programming to biological sequence analysis by validating DNA sequences, calculating nucleotide composition, computing GC content, and generating reverse complements.
 
 ---
 
-**Author:** Sara Jaiswal
+## 📖 Overview
+
+This project was built to strengthen my understanding of both Python programming and molecular biology by applying code to real biological concepts. It marks the beginning of my exploration into computational biology and bioinformatics.
+
+---
+
+## ✨ Features
+
+- ✅ Validates DNA sequences (A, T, G, C)
+- ✅ Calculates sequence length
+- ✅ Counts each nucleotide (A, T, G, C)
+- ✅ Computes GC Content (%)
+- ✅ Generates the reverse complement of a DNA sequence
+
+---
+
+## 🖥️ Example Output
+
+![Program Output](images/demo.png)
+
+---
+
+## 🧬 Biological Concepts
+
+This project demonstrates several foundational concepts in molecular biology:
+
+- DNA nucleotide composition
+- GC Content
+- Complementary base pairing
+- Reverse complement generation
+
+---
+
+## 💻 Technologies Used
+
+- Python
+
+---
+
+## 🚀 Future Improvements
+
+Planned future versions may include:
+
+- DNA → RNA transcription
+- DNA → Protein translation
+- FASTA file support
+- Sequence alignment
+- Integration with NCBI databases
+- Additional sequence statistics
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I practiced:
+
+- Python fundamentals
+- String manipulation
+- Conditional statements
+- Loops
+- Dictionaries
+- Applying programming to biological sequence analysis
+
+---
+
+## 👩‍💻 Author
+
+**Sara Jaiswal**
