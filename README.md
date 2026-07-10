@@ -22,7 +22,7 @@ This project was built to strengthen my understanding of both Python programming
 
 ## 🖥️ Example Output
 
-![Program Output](images/demo.png)
+![Program Output](demo.png)
 
 ---
 
